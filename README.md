@@ -1,2 +1,2 @@
 #proyecto de gestion tecnologias
-(Gestion_Tecnologia_Nocturna_AVV/index.html)
+[dale click para ver la pagina](Gestion_Tecnologia_Nocturna_AVV/index.html)
